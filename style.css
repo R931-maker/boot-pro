@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.con p{
+    margin-left:20px;
+    margin-top: 10px;
+   
+
+    
+}
+.row{
+    height:100px
+}
+.aa{
+    width:80%;
+    height:100px;
+    background-color:#ffb600;
+    color:aliceblue;
+    margin-top: 15%;
+    margin-left: 10%;
+    
+}
+.aa strong{
+    margin-top:4%;
+    float:left;
+    margin-left: 5%;
+    font-size:medium ;
+  
+}
+.aa button 
+{
+    float:right;
+    margin-right:5%;
+    margin-top:3%;
+}
+.container-storage{
+    margin-top: 10%;
+    float:left
+}
+.cc h1{
+    color:yellow;
+}
